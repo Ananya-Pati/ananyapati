@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ananyapati
-- 👀 I’m interested in ...python,java,c,dsa,html,css,java script
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ..java,dsa,html,css,java script
+- 🌱 I’m currently learning ...dsa
 - 💞️ I’m looking to collaborate on ...project
 - 📫 How to reach me ...ananyapati2003@gmail.com
 
